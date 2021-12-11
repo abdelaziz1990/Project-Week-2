@@ -1,34 +1,39 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+Sustainable Development
 
-# 
-*[Your Name]*
+# MTIMET Abdelaziz
+# Radek Debek 
+# Nesma Dehili
 
-*[Your Cohort, Campus & Date]*
+# Ironhach Paris, 10/12/2021;
 
 ## Content
-- [Project Description](#project-description)
-- [Rules](#rules)
-- [Workflow](#workflow)
-- [Organization](#organization)
-- [Links](#links)
+- choose subject -- Sustainable Development
+- check data ( write the python code to extract data( web scraping, exporting csv file from word )
+- develop ER (entity relational models): entity, attribute, PK, FK, relation between each entity(1-1, 1-many, m-m)
+- data description : clean data after extracting from the source, definition of the data.
+- SQL script (create database,create table and fiding it with data.)
+- missing data ⇒ python or SQL
+- normalization: use (Xi-Xmin)/(Xmax-Xmin)
+- composite indicator calculation: variable x weight(influence)
+- the results( slides, and test with mysql)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+
+- We speak about Sustainable Development and the differents ellement of this conception in ower actual word.
 
 ## Rules
-Briefly describe the rules of the game.
+
+- the Rules her was to search for the data of Sustainable Development, clean data and then extract with python  and normalize the data with Mysql
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
-
+-
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
-
+ - In Our Work we did simulatnous work, 
+ - in wich all teams memebers extract data with web scraping, then radek do the my sql work, Nesma the ppt work and me the Er schema and the readmes files
+ - repository Name is Project-, we have My sql fil, readme files (Python Code), data files, slides
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/abdelaziz1990/Project-.git)  
 [Slides](https://slides.com/)  
 [Trello](https://trello.com/en)  
